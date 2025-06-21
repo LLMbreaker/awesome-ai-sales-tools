@@ -3,7 +3,7 @@
 
 <br>
 
-### [Leadplay.io](https://leadplay.io/) – LinkedIn automation for B2B lead generation
+### [Leadplay.io](https://leadplay.io?utm_source=github&utm_medium=git-repo&utm_campaign=awesome-ai-sales-tools) – LinkedIn automation for B2B lead generation
 - Automate LinkedIn outreach with personalized connection requests, smart follow-ups, and advanced analytics.
 Built for sales teams, agencies, and founders to scale outreach safely and book more meetings.
 - **Pricing:** Free Trial
@@ -73,7 +73,7 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 
 ## Social Tools
 
-### [Leadplay.io](https://leadplay.io/) – LinkedIn automation for B2B lead generation
+### [Leadplay.io](https://leadplay.io?utm_source=github&utm_medium=git-repo&utm_campaign=awesome-ai-sales-tools) – LinkedIn automation for B2B lead generation
 - Automate LinkedIn outreach with personalized connection requests, smart follow-ups, and advanced analytics.
 Built for sales teams, agencies, and founders to scale outreach safely and book more meetings.
 - **Pricing:** Free Trial
