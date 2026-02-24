@@ -87,6 +87,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 
 ## Email Tools
 
+### [Suplex](https://trysuplex.com) – cold email and lead generation platform  
+- All-in-one cold email with AI-powered personalization, lead generation, and CRM built-in  
+- **Pricing:** Free Trial
+
 ### [Voxwave AI](https://www.voxwaveai.com/) – cold email automation for sales outreach  
 - Transform email campaigns with personalized AI voice cloning and analytics  
 - **Pricing:** Contact for Pricing
