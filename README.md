@@ -99,6 +99,11 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 <br><br>
 
 
+
+### [EnrichAPI](http://72.62.52.171:8000) – B2B lead intelligence API
+- Give a company URL, get back tech stack, pain hypotheses, ICP fit score, and personalized outreach angle — all in one API call. Built for SDR automation and agentic sales workflows.
+- **Pricing:** Free Trial (trial key via API), Starter $49/mo, Pro $149/mo
+
 ## Phone Tools
 
 ### [Simple Phones](https://simplephones.ai/) – AI phone dialer and call intelligence  
