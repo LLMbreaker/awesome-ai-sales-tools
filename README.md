@@ -78,9 +78,13 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 Built for sales teams, agencies, and founders to scale outreach safely and book more meetings.
 - **Pricing:** Free Trial
 
-### [Taplio](https://taplio.com/) – LinkedIn Content Calendar  
-- Grow your personal brand on LinkedIn  
+### [Taplio](https://taplio.com/) – LinkedIn Content Calendar
+- Grow your personal brand on LinkedIn
 - **Pricing:** Free Trial
+
+### [Hanzi](https://github.com/hanzili/hanzi-in-chrome) – AI-powered LinkedIn prospecting via browser agent
+- Open-source AI agent skill that automates LinkedIn prospecting from your real signed-in browser. Finds people posting about your topic, reads their profiles, writes personalized connection notes, and asks for approval before sending. Works with Claude Code, Cursor, Codex, Windsurf. No Sales Navigator required. Setup: `npx hanzi-in-chrome setup`
+- **Pricing:** Free
 
 
 <br><br>
