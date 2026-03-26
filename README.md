@@ -3,6 +3,11 @@
 
 <br>
 
+
+### [B2B Outbound Sniper](https://github.com/getlemnos32/b2b-outbound-sniper) – Open-source autonomous B2B outbound engine
+- Scrapes job boards for hiring signals, verifies decision-maker emails with Hunter.io, personalizes cold emails using 6 LLMs (Anthropic, OpenAI, DeepSeek, Gemini, Ollama), and sends via SMTP. 10/10 deliverability score. Battle-tested in 30-day production campaign: 52.9% open rate, $0.03/lead.
+- **Pricing:** Free / Open Source
+
 ### [Leadplay.io](https://leadplay.io?utm_source=github&utm_medium=git-repo&utm_campaign=awesome-ai-sales-tools) – LinkedIn automation for B2B lead generation
 - Automate LinkedIn outreach with personalized connection requests, smart follow-ups, and advanced analytics.
 Built for sales teams, agencies, and founders to scale outreach safely and book more meetings.
