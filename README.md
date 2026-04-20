@@ -82,6 +82,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Grow your personal brand on LinkedIn  
 - **Pricing:** Free Trial
 
+### [Scrupp](https://scrupp.com/) – LinkedIn scraper & email finder Chrome extension
+- Scrape LinkedIn and Sales Navigator searches, enrich contacts with verified work emails and phone numbers via multi-provider waterfall + SMTP verification. Export to CSV, HubSpot, or Pipedrive. Free Chrome extension with usage-based pricing. Built for SDR teams, recruiters, and lead-gen agencies.
+- **Pricing:** Freemium
+
 
 <br><br>
 
