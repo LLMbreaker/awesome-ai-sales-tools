@@ -104,3 +104,11 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 ### [Simple Phones](https://simplephones.ai/) – AI phone dialer and call intelligence  
 - Revolutionize business calls with AI, ensuring no customer is missed  
 - **Pricing:** Free Trial
+
+<br><br>
+
+## Lead Generation & Email Finder Tools
+
+### [FindMeMail](https://findmemail.io?utm_source=github&utm_medium=git-repo&utm_campaign=awesome-ai-sales-tools) – AI-powered B2B lead search using plain English
+- Search 32,000+ companies in plain English (e.g. "Series A fintech in NY") and get verified founder & decision-maker emails in seconds. 17,000+ verified contacts across 46 countries with real-time SMTP verification.
+- **Pricing:** Freemium (50 free credits, $200 one-time lifetime)
