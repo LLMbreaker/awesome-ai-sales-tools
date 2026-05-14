@@ -91,6 +91,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Transform email campaigns with personalized AI voice cloning and analytics  
 - **Pricing:** Contact for Pricing
 
+### [SalesLabel](https://sales-label.com) – white-label outbound sales infrastructure for B2B agencies
+- Done-for-you cold email deliverability, sender warm-up, mailbox rotation, and sequencing under your agency brand.
+- **Pricing:** Contact for Pricing
+
 ### [Superhuman](https://superhuman.com/) – cold email automation for sales outreach  
 - Revolutionize email with AI, speed, and intuitive productivity enhancements  
 - **Pricing:** Paid
