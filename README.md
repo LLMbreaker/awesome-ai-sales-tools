@@ -68,6 +68,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Unlock limitless chatbot creation with personalized AI, multilingual support, and cost-effective messaging  
 - **Pricing:** Free
 
+### [Beton Inspector](https://github.com/getbeton/inspector) – open-source revenue intelligence for B2B sales
+- Connects PostHog product usage to your CRM and auto-detects buying, expansion, and churn signals, routing the warmest leads to reps. Self-hostable (AGPLv3).
+- **Pricing:** Open Source / Free
+
 <br><br>
 
 
