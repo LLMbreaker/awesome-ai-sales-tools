@@ -104,3 +104,7 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 ### [Simple Phones](https://simplephones.ai/) – AI phone dialer and call intelligence  
 - Revolutionize business calls with AI, ensuring no customer is missed  
 - **Pricing:** Free Trial
+
+### [Hermes](https://buildwithhermes.com) – AI voice agency platform with native CRM and billing  
+- Deploy white-label AI voice agents, run inbound and outbound campaigns, and bill clients from one platform, replacing 5-7 separate tools  
+- **Pricing:** From $149/month
