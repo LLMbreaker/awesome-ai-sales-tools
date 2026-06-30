@@ -68,6 +68,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Unlock limitless chatbot creation with personalized AI, multilingual support, and cost-effective messaging  
 - **Pricing:** Free
 
+### [OutSend](https://outsend.xyz) – All-in-one B2B prospecting & lead generation  
+- Scrape Google Maps and directories, enrich leads with verified emails and phone numbers, validate contacts, and reach out at scale — the whole prospecting workflow in one tool  
+- **Pricing:** Free (alpha)
+
 <br><br>
 
 
