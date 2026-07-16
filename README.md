@@ -32,6 +32,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Deploy a no code high quality sales rep that books qualified appointments for you day and night  
 - **Pricing:** Freemium
 
+### [Hermes](https://buildwithhermes.com/) – White-label AI voice agents for agencies
+- Deploy AI voice agents that call and qualify leads under your own brand, with a native CRM, outbound and inbound campaign orchestration, and per-client usage billing in one system.
+- **Pricing:** From $149/month
+
 ### [Journey.io](https://journey.io/) – AI-powered sales enablement tools  
 - Optimize customer lifecycle with unified engagement, sales, and onboarding platform  
 - **Pricing:** Freemium
