@@ -95,6 +95,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Revolutionize email with AI, speed, and intuitive productivity enhancements  
 - **Pricing:** Paid
 
+### [Warmbly](https://warmbly.com/) - AI-native cold email and warmup platform
+- Run outreach, mailbox warmup, agentic automations, and deliverability workflows from one open-source platform
+- **Pricing:** Free trial / $29+/mo
+
 
 <br><br>
 
