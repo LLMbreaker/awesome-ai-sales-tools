@@ -82,6 +82,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Grow your personal brand on LinkedIn  
 - **Pricing:** Free Trial
 
+### [LeadSleuth](https://leads.zalize.com/) – AI lead research from public buying-intent signals
+- Watches Hacker News and Bluesky (Reddit coming soon) for people asking for products like yours, then builds a cited dossier per lead (identity, career history, ICP fit) with a ready-to-edit reply quoting their own post. Never auto-sends.
+- **Pricing:** Free (beta)
+
 
 <br><br>
 
