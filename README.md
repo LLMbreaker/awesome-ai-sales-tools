@@ -104,3 +104,7 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 ### [Simple Phones](https://simplephones.ai/) – AI phone dialer and call intelligence  
 - Revolutionize business calls with AI, ensuring no customer is missed  
 - **Pricing:** Free Trial
+
+### [Workforce Wave](https://www.workforcewave.com/) – AI voice receptionist for business calls  
+- Answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses  
+- **Pricing:** Free Trial
