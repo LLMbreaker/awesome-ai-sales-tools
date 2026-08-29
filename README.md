@@ -68,6 +68,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Unlock limitless chatbot creation with personalized AI, multilingual support, and cost-effective messaging  
 - **Pricing:** Free
 
+### [Funding Signals](https://fundingsignals.net?utm_source=github&utm_medium=awesome-list) – B2B leads from companies that just raised funding  
+- Scores newly-funded companies as sales leads straight from public SEC filings, then enriches each into a real domain, contact email, and the named executives' LinkedIn/X profiles  
+- **Pricing:** Free tier, pay-per-use
+
 <br><br>
 
 
