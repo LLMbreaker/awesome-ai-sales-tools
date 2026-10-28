@@ -8,6 +8,9 @@
 Built for sales teams, agencies, and founders to scale outreach safely and book more meetings.
 - **Pricing:** Free Trial
 
+### [SwiftCall](https://swiftcall.org/ai-agents) – AI agents that answer and qualify inbound sales calls
+- Answers every call, qualifies the caller, books the appointment and logs the lead in the CRM, with follow-up handled by an AI agent.
+- **Pricing:** Custom
 ### [Worgit.ai](https://worgit.ai/) – AI tools for sales and automation  
 - Supercharge productivity with AI-driven business tools  
 - **Pricing:** Freemium
