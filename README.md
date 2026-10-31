@@ -82,6 +82,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Grow your personal brand on LinkedIn  
 - **Pricing:** Free Trial
 
+### [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace with buying-request discovery
+- Coordinates Telegram account/proxy operations and campaign workflows for teams and agencies. Its Lead Radar module monitors selected communities for buying requests, ranks opportunities, and surfaces each original message with match evidence.
+- **Pricing:** Lead Radar $9/month; 14-day trial for the four core modules; account/proxy management remains free for up to 50 accounts after trial.
+
 
 <br><br>
 
