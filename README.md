@@ -68,7 +68,7 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Unlock limitless chatbot creation with personalized AI, multilingual support, and cost-effective messaging  
 - **Pricing:** Free
 
-### [LeadSets](https://www.leadsets.ai/) – Unlimited B2B Contact Data for AI Agents, Starting from $29/mo
+### [Leadsets](https://www.leadsets.ai/) – Unlimited B2B Contact Data for AI Agents, Starting from $29/mo
 - Search, enrich and verify work emails over MCP or REST. Free: 1,000 records, no card.
 - **Pricing:** Freemium
 
