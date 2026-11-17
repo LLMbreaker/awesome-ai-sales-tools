@@ -95,6 +95,10 @@ Built for sales teams, agencies, and founders to scale outreach safely and book 
 - Revolutionize email with AI, speed, and intuitive productivity enhancements  
 - **Pricing:** Paid
 
+### [warmed-up.email](https://warmed-up.email/) – autonomous cold email warmup engine and deliverability infrastructure  
+- Turnkey pre-warmed Google Workspace & Microsoft 365 mailbox fleets, 42-day ramp algorithm, and spam rescue watchdog  
+- **Pricing:** Paid / Free DNS Audit
+
 
 <br><br>
 
